@@ -11,7 +11,7 @@
 
 ## 🎯 Career Objective
 
-Business Analyst with 3 years of experience delivering workflow automation and digital transformation in the banking domain. Skilled in requirement gathering, stakeholder management, BRD/FRD preparation, process mapping, gap analysis, UAT support, and Power BI reporting. Completed MBA in Business Analytics at BITS Pilani — seeking to leverage analytical and business problem-solving skills in a BA or DA role.
+Business Analyst with 3 years of experience delivering workflow automation and digital transformation in the banking domain. Skilled in requirement gathering, stakeholder management, BRD/FRD preparation, process mapping, gap analysis, UAT support, and Power BI reporting. Completed MBA in Business Analytics at BITS Pilani seeking to leverage analytical and business problem-solving skills in a BA or DA role.
 
 ---
 
@@ -49,7 +49,7 @@ Interactive dashboard analyzing IPL team & player performance across multiple in
 ### 🌐 PICS Attestation Services Web App
 Role-based dashboard web app for business performance monitoring. KPI graphs, automated staff attendance tracking via secure logins, and a website insights module for user traffic analysis.
 
-`ASP.NET Core` `Dashboard` `SQL`
+`Javascript` `Dashboard` `SQL` `Excel` 
 
 ---
 
