@@ -1,52 +1,94 @@
-# Hey, I'm Surya 👋
+# 👋 Hi, I'm Suryanarayan Pillai
 
-> Data analyst & ML explorer turning raw numbers into decisions.
-> I dig deep into data so others don't have to guess.
+[![Profile Views](https://komarev.com/ghpvc/?username=surya492001&label=Profile+views&color=4A90D9&style=flat)](https://github.com/surya492001)
+![Power BI Certified](https://img.shields.io/badge/Microsoft-Power_BI_Certified-107C10?style=flat&logo=powerbi&logoColor=white)
+
+> **Business Analyst & Data Analyst** | Deputy Manager (IT) @ HDFC Bank | MBA Business Analytics, BITS Pilani
+>
+> I turn messy business problems into clean data solutions — BRDs, dashboards, and everything in between.
+
+---
+
+## 🎯 Career Objective
+
+Business Analyst with 3 years of experience delivering workflow automation and digital transformation in the banking domain. Skilled in requirement gathering, stakeholder management, BRD/FRD preparation, process mapping, gap analysis, UAT support, and Power BI reporting. Completed MBA in Business Analytics at BITS Pilani — seeking to leverage analytical and business problem-solving skills in a BA or DA role.
 
 ---
 
 ## ⚡ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-0C447C?style=flat-square&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-27500A?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-1D6AA5?style=flat-square&logo=alteryx&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0C447C?style=flat-square&logo=python&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile/Scrum-00B0A3?style=flat-square)
 
 ---
 
-## 🔨 Featured Projects
+## 🔨 Key Projects
 
-### 📊 Sales Intelligence Dashboard
-End-to-end pipeline — SQL Server extraction → Alteryx transformation → Power BI storytelling. Reduced reporting time by 60%.
+### 📊 Workflow Analytics — SLA Compliance in Banking Operations
+Analyzed multi-stage banking workflows (Budget Requests, Credit Approvals, Vendor Onboarding) for SLA compliance and TAT. Ran process mining to pinpoint bottlenecks at Functional Head & TMAC Reviewer stages. Generated synthetic data (SDV PARSynthesizer), built a Decision Tree for SLA violation prediction, and delivered a Power BI dashboard.
 
-### 🤖 Customer Churn Predictor
-Sklearn + Python model achieving 87% accuracy on telecom churn data. Full EDA, feature engineering, and model explainability.
-
-### 🔍 NLP Sentiment Analyzer
-Real-time tweet sentiment pipeline using Python, visualized live in Tableau. Tracks brand perception across 10k+ tweets/day.
+`Power BI` `Python` `ML · Decision Tree` `SQL`
 
 ---
 
-## 🗺️ Learning Journey
+### 🏏 IPL Performance Dashboard (Power BI)
+Interactive dashboard analyzing IPL team & player performance across multiple integrated datasets. Applied DAX measures to track batting, bowling, and win trends. Used visual storytelling for player consistency insights.
 
-```
-[Excel & SQL] ──► [Python + BI Tools] ──► [ML & AI] ──► [MLOps & LLMs] 🚀
-```
-
-- ✅ Business analysis fundamentals, data cleaning at scale
-- ✅ Power BI, Tableau, Alteryx — full analytics stack
-- 🔄 Predictive modeling, NLP, intelligent data products
-- 🎯 Next → deploying models, building data-driven AI workflows
+`Power BI` `DAX` `Data Modelling`
 
 ---
 
-## 📬 Reach Me
+### 🌐 PICS Attestation Services Web App
+Role-based dashboard web app for business performance monitoring. KPI graphs, automated staff attendance tracking via secure logins, and a website insights module for user traffic analysis.
 
-- **GitHub:** [@surya492001](https://github.com/surya492001)
+`ASP.NET Core` `Dashboard` `SQL`
 
 ---
 
-*Currently: open to collabs · learning ML · building things*
+### 📡 5G Network Simulation Suite — Reliance Jio *(Internship)*
+Developed a simulation suite evaluating 5G base station and client configurations. Implemented performance comparison tools and optimized simulation parameters with senior teams.
+
+`Python` `Simulation`
+
+---
+
+### 🫀 Heart Disease Prediction — Research Publication
+Published: *"Probability of Heart Disease using various ML Algorithms"* — 2023 International Conference on Advanced Computing Technologies and Applications (ICACTA), Mumbai.
+
+`Python` `ML Algorithms` `Research`
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year | Score |
+|--------|-------------|------|-------|
+| MBA in Business Analytics | BITS Pilani | 2024 – 2026 | CGPA 9/10 |
+| B.Tech in Electronics & Telecom | NMIMS, Mumbai | 2019 – 2023 | CGPA 3.62/4 |
+
+---
+
+## 🏅 Certifications
+
+- 🏅 **Microsoft Certified: Power BI Data Analyst Associate**
+- 📊 Bayesian Statistics — University of California
+- 🤖 Machine Learning with RStudio
+- 🔧 Build ASP.NET Core Web API — Scratch To Finish
+- 📋 Project Management Fundamentals (Udemy)
+- 🗣️ Communicating with Confidence
+
+---
+
+## 📬 Connect with Me
+
+- 📧 surya492001@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/suryanarayan-pillai)
+- 🐙 [@surya492001](https://github.com/surya492001)
