@@ -53,13 +53,6 @@ Role-based dashboard web app for business performance monitoring. KPI graphs, au
 
 ---
 
-### 📡 5G Network Simulation Suite — Reliance Jio *(Internship)*
-Developed a simulation suite evaluating 5G base station and client configurations. Implemented performance comparison tools and optimized simulation parameters with senior teams.
-
-`Python` `Simulation`
-
----
-
 ### 🫀 Heart Disease Prediction — Research Publication
 Published: *"Probability of Heart Disease using various ML Algorithms"* — 2023 International Conference on Advanced Computing Technologies and Applications (ICACTA), Mumbai.
 
