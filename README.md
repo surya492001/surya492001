@@ -27,6 +27,12 @@ Business Analyst with 3 years of experience delivering workflow automation and d
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile/Scrum-00B0A3?style=flat-square)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-6E4AFF?style=flat-square&logo=microsoft&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![SQL Analytics](https://img.shields.io/badge/SQL_Analytics-0078D4?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Data Factory](https://img.shields.io/badge/Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Data Lake](https://img.shields.io/badge/Data_Lake-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Data Lake Storage](https://img.shields.io/badge/Azure_Data_Lake_Storage-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ---
 
