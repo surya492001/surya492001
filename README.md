@@ -89,5 +89,5 @@ Published: *"Probability of Heart Disease using various ML Algorithms"* — 2023
 ## 📬 Connect with Me
 
 - 📧 surya492001@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/suryanarayan-pillai)
+- 💼 [LinkedIn](https://www.linkedin.com/in/suryanarayan-pillai-7b66a4194/)
 - 🐙 [@surya492001](https://github.com/surya492001)
