@@ -58,7 +58,11 @@ Role-based dashboard web app for business performance monitoring. KPI graphs, au
 `Javascript` `Dashboard` `SQL` `Excel` 
 
 ---
+🛍️ Nivara Living – E-Commerce Web App
+Full-stack shopping web app for hotel accessories (bedsheets, pillows, linen essentials). Cart management, checkout with delivery details, UPI payments, and WhatsApp-based order placement for flexible, accessible ordering.
+`JavaScript` `E-Commerce` `UPI Integration` `WhatsApp API`
 
+---
 ### 🫀 Heart Disease Prediction — Research Publication
 Published: *"Probability of Heart Disease using various ML Algorithms"* — 2023 International Conference on Advanced Computing Technologies and Applications (ICACTA), Mumbai.
 
