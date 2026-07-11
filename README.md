@@ -45,6 +45,15 @@ Analyzed multi-stage banking workflows (Budget Requests, Credit Approvals, Vendo
 
 ---
 
+### 🧩 Customer 360° Dashboard — Microsoft Fabric E-Commerce Project
+Unified scattered customer data (CRM, orders, payments, support tickets, web activity) into a single Customer 360° view using Microsoft Fabric's Medallion Architecture. Built Data Pipelines to ingest raw data into a Lakehouse, transformed it through Bronze → Silver → Gold layers with PySpark, and delivered a Power BI dashboard tracking customer lifecycle, retention, and high-value customer identification.  
+`Microsoft Fabric` `PySpark` `Lakehouse` `Data Pipelines` `Power BI`
+
+[🔗 View Repo](https://github.com/surya492001/customer-360-microsoft-fabric)
+
+---
+
+
 ### 🏏 IPL Performance Dashboard (Power BI)
 Interactive dashboard analyzing IPL team & player performance across multiple integrated datasets. Applied DAX measures to track batting, bowling, and win trends. Used visual storytelling for player consistency insights.
 
