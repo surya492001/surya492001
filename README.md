@@ -46,8 +46,9 @@ Analyzed multi-stage banking workflows (Budget Requests, Credit Approvals, Vendo
 ---
 
 ### 🧩 Customer 360° Dashboard — Microsoft Fabric E-Commerce Project
-Unified scattered customer data (CRM, orders, payments, support tickets, web activity) into a single Customer 360° view using Microsoft Fabric's Medallion Architecture. Built Data Pipelines to ingest raw data into a Lakehouse, transformed it through Bronze → Silver → Gold layers with PySpark, and delivered a Power BI dashboard tracking customer lifecycle, retention, and high-value customer identification.  
-`Microsoft Fabric` `PySpark` `Lakehouse` `Data Pipelines` `Power BI`
+Unified scattered customer data (CRM, orders, payments, support tickets, web activity) into a single Customer 360° view using Microsoft Fabric's Medallion Architecture. Built Data Pipelines to ingest raw data into a Lakehouse, transformed it through Bronze → Silver → Gold layers with PySpark, and delivered a Power BI dashboard tracking customer lifecycle, retention, and high-value customer identification. 
+
+`Microsoft Fabric` `PySpark` `Lakehouse`  `ADLS`  `Data Pipelines` `Power BI`
 
 ---
 
