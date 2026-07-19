@@ -51,6 +51,13 @@ Unified scattered customer data (CRM, orders, payments, support tickets, web act
 `Microsoft Fabric` `PySpark` `Lakehouse`  `ADLS`  `Data Pipelines` `Power BI`
 
 ---
+### 🏗️ Retail Data Quality & Profitability Insights - Microsoft Fabric (Medallion Architecture)
+
+Built an end-to-end data engineering pipeline integrating messy multi-source retail data (Orders, Inventory, Returns) using Medallion Architecture (Bronze → Silver → Gold) in Microsoft Fabric. Cleaned and normalized inconsistent raw inputs (string cleaning, date parsing, null handling, deduplication, type casting) with PySpark, then derived business KPIs  return rates, unique buyers, average order value, and net profit — through hashing, joins, and aggregations. Delivered enriched Gold Delta tables powering an executive Power BI dashboard for stock and profitability monitoring.
+
+`Microsoft Fabric` `PySpark` `Medallion Architecture` `Power BI` `Data Cleaning`
+
+---
 
 
 ### 🏏 IPL Performance Dashboard (Power BI)
