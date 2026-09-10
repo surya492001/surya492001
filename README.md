@@ -3,7 +3,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=surya492001&label=Profile+views&color=4A90D9&style=flat)](https://github.com/surya492001)
 ![Power BI Certified](https://img.shields.io/badge/Microsoft-Power_BI_Certified-107C10?style=flat&logo=powerbi&logoColor=white)
 
-> ** Fullstack Developer |Software Engineer |.Net Developer |Business Analyst & Data Analyst**| MBA Business Analytics, BITS Pilani
+**Fullstack Developer | Software Engineer | .Net Developer | Business Analyst & Data Analyst** | MBA Business Analytics, BITS Pilani
 >
 
 ## ⚡ Tech Stack
