@@ -1,30 +1,23 @@
-# 👋 Hi, I'm Suryanarayan Pillai
+# 👋 Hi, I'm Suryanarayan Satheesh Pillai
 
 [![Profile Views](https://komarev.com/ghpvc/?username=surya492001&label=Profile+views&color=4A90D9&style=flat)](https://github.com/surya492001)
 ![Power BI Certified](https://img.shields.io/badge/Microsoft-Power_BI_Certified-107C10?style=flat&logo=powerbi&logoColor=white)
 
-> **Business Analyst & Data Analyst**| MBA Business Analytics, BITS Pilani
+> ** Fullstack Developer |Software Engineer |.Net Developer |Business Analyst & Data Analyst**| MBA Business Analytics, BITS Pilani
 >
-> I turn messy business problems into clean data solutions — BRDs, dashboards, and everything in between.
-
----
-
-## 🎯 Career Objective
-
-Business Analyst with 3 years of experience delivering workflow automation and digital transformation in the banking domain. Skilled in requirement gathering, stakeholder management, BRD/FRD preparation, process mapping, gap analysis, UAT support, and Power BI reporting. Completed MBA in Business Analytics at BITS Pilani seeking to leverage analytical and business problem-solving skills in a BA or DA role.
-
----
 
 ## ⚡ Tech Stack
 
+![Python](https://img.shields.io/badge/Python-0C447C?style=flat-square&logo=python&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-1D6AA5?style=flat-square&logo=alteryx&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0C447C?style=flat-square&logo=python&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile/Scrum-00B0A3?style=flat-square)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-6E4AFF?style=flat-square&logo=microsoft&logoColor=white)
@@ -90,19 +83,20 @@ Published: *"Probability of Heart Disease using various ML Algorithms"* — 2023
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| MBA in Business Analytics | BITS Pilani | 2024 – 2026 | CGPA 9/10 |
+| MBA in Business Analytics | BITS Pilani | 2024 – 2026 | CGPA 9.07/10 |
 | B.Tech in Electronics & Telecom | NMIMS, Mumbai | 2019 – 2023 | CGPA 3.62/4 |
 
 ---
 
 ## 🏅 Certifications
 
-- 🏅 **Microsoft Certified: Power BI Data Analyst Associate**
-- 📊 Bayesian Statistics — University of California
-- 🤖 Machine Learning with RStudio
-- 🔧 Build ASP.NET Core Web API — Scratch To Finish
-- 📋 Project Management Fundamentals (Udemy)
-- 🗣️ Communicating with Confidence
+- 🏅 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
+- ☕ Master Java Full Stack: React, Spring Boot, REST APIs, JPA, Security, JWT, Redux, Tailwind CSS (Udemy)
+- 🔧 ASP.NET Core Web API Development (Udemy)
+- 📊 Microsoft Fabric Data Engineering: Real-Time Projects (Udemy)
+- 🤖 Machine Learning with R (Alison)
+- 📋 Project Management Foundations (LinkedIn Learning)
+- 🗣️ Google - Discover the Art of Prompting (Coursera)
 
 ---
 
