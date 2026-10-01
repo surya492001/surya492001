@@ -31,14 +31,14 @@
 
 ## 🔨 Key Projects
 
-### 📊 Workflow Analytics — SLA Compliance in Banking Operations
+### 📊 Workflow Analytics - SLA Compliance in Banking Operations
 Analyzed multi-stage banking workflows (Budget Requests, Credit Approvals, Vendor Onboarding) for SLA compliance and TAT. Ran process mining to pinpoint bottlenecks at Functional Head & TMAC Reviewer stages. Generated synthetic data (SDV PARSynthesizer), built a Decision Tree for SLA violation prediction, and delivered a Power BI dashboard.
 
 `Power BI` `Python` `ML · Decision Tree` `SQL`
 
 ---
 
-### 🧩 Customer 360° Dashboard — Microsoft Fabric E-Commerce Project
+### 🧩 Customer 360° Dashboard - Microsoft Fabric E-Commerce Project
 Unified scattered customer data (CRM, orders, payments, support tickets, web activity) into a single Customer 360° view using Microsoft Fabric's Medallion Architecture. Built Data Pipelines to ingest raw data into a Lakehouse, transformed it through Bronze → Silver → Gold layers with PySpark, and delivered a Power BI dashboard tracking customer lifecycle, retention, and high-value customer identification. 
 
 `Microsoft Fabric` `PySpark` `Lakehouse`  `ADLS`  `Data Pipelines` `Power BI`
@@ -72,7 +72,7 @@ Full-stack shopping web app for hotel accessories (bedsheets, pillows, linen ess
 `JavaScript` `E-Commerce` `UPI Integration` `WhatsApp API`
 
 ---
-### 🫀 Heart Disease Prediction — Research Publication
+### 🫀 Heart Disease Prediction - Research Publication
 Published: *"Probability of Heart Disease using various ML Algorithms"* — 2023 International Conference on Advanced Computing Technologies and Applications (ICACTA), Mumbai.
 
 `Python` `ML Algorithms` `Research`
