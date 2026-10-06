@@ -31,6 +31,12 @@
 
 ## 🔨 Key Projects
 
+### 🤖 BankOps AI - AI Agent for Banking Operations
+Built an AI-powered operations agent using LangGraph, FastAPI, PostgreSQL, and LLM tool calling to investigate banking incidents, check SLA breaches, retrieve application information, and provide evidence-backed recommendations. Implemented RAG-based SOP retrieval with Chroma and developed a Streamlit operations dashboard with audit trails and escalation capabilities.
+
+`LangGraph` `FastAPI` `PostgreSQL` `ChromaDB` `RAG` `Streamlit` `Python`
+
+
 ### 📊 Workflow Analytics - SLA Compliance in Banking Operations
 Analyzed multi-stage banking workflows (Budget Requests, Credit Approvals, Vendor Onboarding) for SLA compliance and TAT. Ran process mining to pinpoint bottlenecks at Functional Head & TMAC Reviewer stages. Generated synthetic data (SDV PARSynthesizer), built a Decision Tree for SLA violation prediction, and delivered a Power BI dashboard.
 
