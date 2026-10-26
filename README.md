@@ -44,6 +44,12 @@ Built an AI-powered operations agent using LangGraph, FastAPI, PostgreSQL, and L
 
 `LangGraph` `FastAPI` `PostgreSQL` `ChromaDB` `RAG` `Streamlit` `Python`
 
+### 🛒 StickyBytes - Full-Stack E-Commerce Application
+
+Developed a full-stack sticker e-commerce application using React, Spring Boot, and MySQL, enabling users to browse products, add stickers to a shopping cart, and complete secure payments through Stripe Checkout. Built a responsive user interface using Vite and Tailwind CSS, integrated REST APIs for frontend-backend communication, implemented user login and logout functionality, and used Docker to run the MySQL database.
+
+`React` `Spring Boot` `Java` `MySQL` `Docker` `Stripe` `Tailwind CSS` `Vite` `REST API`
+
 
 ### 📊 Workflow Analytics - SLA Compliance in Banking Operations
 Analyzed multi-stage banking workflows (Budget Requests, Credit Approvals, Vendor Onboarding) for SLA compliance and TAT. Ran process mining to pinpoint bottlenecks at Functional Head & TMAC Reviewer stages. Generated synthetic data (SDV PARSynthesizer), built a Decision Tree for SLA violation prediction, and delivered a Power BI dashboard.
